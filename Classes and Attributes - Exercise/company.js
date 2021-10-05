@@ -36,4 +36,3 @@ class Company {
         return result.trim();
     }
 }
-}
